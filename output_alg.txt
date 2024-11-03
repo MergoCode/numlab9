@@ -1,0 +1,8 @@
+
+Method Newton-Gornera
+Solution = 6.058295861883e-01
+With iteration 9
+
+Method Lina
+Solution = 7.208520690622e-02	6.383267351479e-01
+With iteration 214
